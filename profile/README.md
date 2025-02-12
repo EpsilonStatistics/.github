@@ -1,3 +1,3 @@
 ## Welcome to Epsilon Quantiative
 
-We are quantitative trading startup.
+We are a quantitative trading startup.
